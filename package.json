@@ -1,0 +1,23 @@
+{
+  "name": "firebase-auth-example",
+  "version": "0.0.1",
+  "description": "firebase example project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rook91/firebase-auth-example.git"
+  },
+  "keywords": [
+    "firebase",
+    "auth"
+  ],
+  "author": "gawron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rook91/firebase-auth-example/issues"
+  },
+  "homepage": "https://github.com/rook91/firebase-auth-example#readme"
+}
